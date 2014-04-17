@@ -1,0 +1,19 @@
+{
+  "name": "newrelic_express_node",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dukedave/newrelic_express_node.git"
+  },
+  "author": "Dave Tapley",
+  "license": "BSD",
+  "dependencies": {
+    "newrelic": "~1.5.0",
+    "express": "~4.0.0"
+  }
+}
